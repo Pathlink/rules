@@ -2,11 +2,13 @@
   "rules":  [
        {
         "DOMAIN-KEYWORD": 
-        "ifastgb", 
+        
         "trading212",
        
      "DOMAIN-SUFFIX": [
         "wise.com",
+       
+        "ifastgb.com", 
        
         "trading212.com",
         "appsflyersdk.com",
