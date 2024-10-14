@@ -2,13 +2,8 @@
   "rules": [
     {
       "DOMAIN-KEYWORD":
-      #212
       "trading212",
      "DOMAIN-SUFFIX": [
-       #wise
-       "wise.com",
-       "newdaycards.com",
-       #212
        "trading212.com",
       "appsflyersdk.com"
     ]
