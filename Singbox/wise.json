@@ -1,7 +1,6 @@
 {
   "rules": [
     {
-      "DOMAIN": "tw-avatar.s3.eu-central-1.amazonaws.com",
      "DOMAIN-SUFFIX":  "wise.com"
     }
   ]
