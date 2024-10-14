@@ -3,18 +3,14 @@
   "version": 1,
   "rules": [
     {
-
 "DOMAIN-SUFFIX, online-metrix.net"
 "DOMAIN-SUFFIX, wise.com"
 "DOMAIN, tw-avatar.s3.eu-central-1.amazonaws.com"
-
 "DOMAIN-SUFFIX, skrill.com"
 "DOMAIN-SUFFIX, skrill.uk"
-
 "DOMAIN-SUFFIX, chase.com"
 "DOMAIN-SUFFIX, chase.uk"
 "DOMAIN-SUFFIX, chase.co.uk"
-
 "DOMAIN-SUFFIX, creditkarma.co.uk"
 "DOMAIN-SUFFIX, totallymoney.uk"
 "DOMAIN-SUFFIX, totallymoney.com"
@@ -24,43 +20,33 @@
 "DOMAIN-SUFFIX, pillar.money"
 "DOMAIN-SUFFIX, experian.co.uk"
 "DOMAIN-SUFFIX, experianidentityservice.co.uk"
-
 "DOMAIN-SUFFIX, barclays.co.uk"
 "DOMAIN-SUFFIX, barclays.com"
 "DOMAIN-SUFFIX, barclays.mobi"
 "DOMAIN, barclaysuk.sc.omtrdc.net"
 "DOMAIN, bclays-ads.aimatch.com"
 "DOMAIN-KEYWORD, barclays"
-
 "DOMAIN-SUFFIX, guavapay.com"
 "DOMAIN-KEYWORD,myguava"
 "DOMAIN-KEYWORD,guavapay"
-
 "DOMAIN-SUFFIX, lloydsbank.co.uk"
 "DOMAIN-SUFFIX, amazontrust.com"
 "DOMAIN-SUFFIX, dynatrace.com"
 "DOMAIN-KEYWORD, lloydsbank"
-
 "DOMAIN-SUFFIX, tsb.co.uk"
 "DOMAIN-SUFFIX, tsb.demdex.net"
 "DOMAIN-SUFFIX, cm.everesttech.net"
-
 "DOMAIN-SUFFIX, ifastgb.com"
-
 "DOMAIN-SUFFIX, wuzo.co.uk"
 "DOMAIN-SUFFIX, wuzo.com"
-
 "DOMAIN-SUFFIX, payzilch.com"
 "DOMAIN-SUFFIX, eu.intercom.io"
 "DOMAIN-SUFFIX, verygoodvault.com"
 "DOMAIN-SUFFIX, verygood.systems"
 "DOMAIN-SUFFIX, appsflyer.com"
-
-"DOMAIN-SUFFIX, curve.app"
-"DOMAIN-SUFFIX, branch.io"
+"DOMAIN-SUFFIX, curve.app""DOMAIN-SUFFIX, branch.io"
 "DOMAIN-SUFFIX, emb-api.com"
 "DOMAIN-SUFFIX, imaginecurve.com"
-
 "DOMAIN-SUFFIX, stripe.com"
 "DOMAIN-SUFFIX, sprig.com"
 "DOMAIN-SUFFIX, stripe.uk"
@@ -75,36 +61,25 @@
 "DOMAIN-SUFFIX, branch.io"
 "DOMAIN-SUFFIX, appsflyer.com"
 "DOMAIN-SUFFIX, customer.io"
-
 "DOMAIN-SUFFIX, freetrade.io"
 "DOMAIN-SUFFIX, algolia.net"
 "DOMAIN-SUFFIX, asnapieu.com"
-
 "DOMAIN-SUFFIX, trading212.com"
 "DOMAIN-SUFFIX, appsflyersdk.com"
 "DOMAIN-KEYWORD, trading212"
-
 "DOMAIN-SUFFIX, newdaycards.com"
 "DOMAIN-KEYWORD, newdaycards"
-
 "DOMAIN-SUFFIX, moneyboxapp.com"
 "DOMAIN-SUFFIX, browser-intake-datadoghq.eu"
-
 "DOMAIN-SUFFIX, paysend.io"
-
 "DOMAIN-SUFFIX, hsbc.co.uk"
-
 "DOMAIN-SUFFIX, topcashback.com"
-      
 "DOMAIN-SUFFIX, kroo.com"
-
 "DOMAIN-SUFFIX, uphold.com"
-
 "DOMAIN-SUFFIX, n26.com"
 "DOMAIN-SUFFIX, tech26.de"
 "DOMAIN-SUFFIX, number26.de"
 "DOMAIN-SUFFIX, dev-tech26.de"
-
 "DOMAIN-SUFFIX, co.uk"
     }
   ]
