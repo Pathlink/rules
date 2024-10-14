@@ -1,1 +1,14 @@
 
+{
+  "rules": [
+    {
+     "DOMAIN-SUFFIX": [
+      "monzo-alt.net",
+      "monzo.com",
+      "monzo.statuspage.io",
+      "monzo.me",
+      "nonprod-ffs.io"
+     ]
+    }
+  ]  
+}
