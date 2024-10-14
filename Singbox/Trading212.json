@@ -4,15 +4,16 @@
         "DOMAIN-KEYWORD": 
         "trading212",
      "DOMAIN-SUFFIX":  [
-        "monzo.me",
-        "monzo.statuspage.io",
-        "monzo.com",
-        "monzo-alt.net",
+
         "wise.com",
         "nonprod-ffs.io",
         "ifastgb.com",
         "trading212.com",
-        "appsflyersdk.com"
+        "appsflyersdk.com",
+        "monzo.me",
+        "monzo.statuspage.io",
+        "monzo.com",
+        "monzo-alt.net"
       ]
     }
   ]  
