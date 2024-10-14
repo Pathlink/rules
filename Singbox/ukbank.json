@@ -2,8 +2,9 @@
   "rules":  [
        {
         "DOMAIN-KEYWORD": 
+        "ifastgb", 
         "trading212",
-        "ifastgb",
+       
      "DOMAIN-SUFFIX": [
         "wise.com",
        
