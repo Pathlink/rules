@@ -1,11 +1,11 @@
 {
-  "rules":   [
-         {
+  "rules":  [
+          {
         "DOMAIN-KEYWORD": 
           
         "trading212",
 
-     "DOMAIN-SUFFIX": [
+     "DOMAIN-SUFFIX":  [
        "appsflyersdk.com",
         "barclays.co.uk",
         "barclays.com",
@@ -78,6 +78,6 @@
       "co.uk"  
        
              ]
-         }
-    ]  
+          }
+     ]  
 }
