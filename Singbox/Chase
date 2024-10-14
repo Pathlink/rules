@@ -1,0 +1,11 @@
+{
+  "rules": [
+    {
+     "DOMAIN-SUFFIX": [
+       "chase.com",
+       "chase.uk",
+      "chase.co.uk"
+     ]
+    }
+  ]  
+}
