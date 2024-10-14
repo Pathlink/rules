@@ -1,25 +1,25 @@
 {
-  "rules": [
+  "rules":   [
     {
-      "DOMAIN-KEYWORD":  [
-      "trading212",
+      "DOMAIN-KEYWORD":      [
+          "trading212",
 
-      "barclays",
+          "barclays",
 
-      "guavapay",
+          "guavapay",
 
-      "lloydsbank", 
-   ]
+         "lloydsbank", 
+                          ]
 
-     "DOMAIN-SUFFIX": [
+     "DOMAIN-SUFFIX":  [
      
-      "appsflyersdk.com",
+        "appsflyersdk.com",
 
-      "barclays.co.uk",
-      "barclays.com",
-      "barclays.mobi",
-      "barclaysuk.sc.omtrdc.net",
-      "bclays-ads.aimatch.com",
+        "barclays.co.uk",
+        "barclays.com",
+        "barclays.mobi",
+        "barclaysuk.sc.omtrdc.net",
+        "bclays-ads.aimatch.com",
 
       "chase.com",
       "chase.uk",
@@ -110,7 +110,7 @@
       "skrill.uk",
 
       "co.uk"
-     ]
-    }
-  ]  
+            ]
+       }
+    ]  
 }
