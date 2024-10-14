@@ -5,7 +5,7 @@
           
         "trading212",
 
-     "DOMAIN-SUFFIX":  [
+     "DOMAIN-SUFFIX": [
        "appsflyersdk.com",
         "barclays.co.uk",
         "barclays.com",
@@ -77,7 +77,7 @@
       "skrill.uk",    
       "co.uk"  
        
-               ]
+             ]
          }
     ]  
 }
