@@ -5,12 +5,10 @@
      "DOMAIN-SUFFIX": [
   "trading212.com",
  "appsflyersdk.com"，
+       "wise.com"
 ]
 
     }
-        {
-     "DOMAIN-SUFFIX":"wise.com"
-        }
   ]
   
 }
