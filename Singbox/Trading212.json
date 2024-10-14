@@ -1,6 +1,6 @@
 {
   "rules":  [
-    {
+       {
         "DOMAIN-KEYWORD": 
         "trading212",
      "DOMAIN-SUFFIX":     [
@@ -14,6 +14,6 @@
         "monzo.com",
         "monzo-alt.net"
              ]
-    }
-  ]  
+       }
+    ]  
 }
