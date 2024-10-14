@@ -1,18 +1,16 @@
 {
   "rules": [
     {
-    {
       "DOMAIN-KEYWORD": "trading212",
      "DOMAIN-SUFFIX": [
   "trading212.com",
- "appsflyersdk.com"
+ "appsflyersdk.com"，
 ]
 
     }
         {
      "DOMAIN-SUFFIX":"wise.com"
-    }
-    }
+        }
   ]
   
 }
