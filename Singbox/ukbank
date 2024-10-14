@@ -2,6 +2,7 @@
   "rules":   [
     {
       "DOMAIN-KEYWORD":      [
+
           "trading212",
 
           "barclays",
@@ -9,6 +10,7 @@
           "guavapay",
 
          "lloydsbank", 
+
                           ]
 
      "DOMAIN-SUFFIX":  [
