@@ -2,7 +2,7 @@
   "rules":   [
     {
       "DOMAIN-KEYWORD":      [
-
+       {
           "trading212",
 
           "barclays",
@@ -10,11 +10,11 @@
           "guavapay",
 
          "lloydsbank", 
-
+            }
                           ]
 
      "DOMAIN-SUFFIX":  [
-     
+           {
         "appsflyersdk.com",
 
         "barclays.co.uk",
@@ -42,7 +42,7 @@
 
       "lloydsbank.co.uk",
       "amazontrust.com",
-      "dynatrace.com ",
+      "dynatrace.com",
 
       "tsb.co.uk",
       "tsb.demdex.net",
@@ -71,8 +71,8 @@
       "monzo-alt.net",
       "monzo.com",
       "monzo.statuspage.io",
-      "monzo.me",",
-      "nonprod-ffs.io
+      "monzo.me",
+      "nonprod-ffs.io",
 
       "lemfi.com",
       "branch.io",
@@ -110,8 +110,9 @@
 
       "skrill.com",
       "skrill.uk",
-
+           }
       "co.uk"
+          
             ]
        }
     ]  
