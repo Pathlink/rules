@@ -4,8 +4,9 @@
         "DOMAIN-KEYWORD": 
         
         "trading212",
+         "ifastgb",
        
-     "DOMAIN-SUFFIX": [
+     "DOMAIN-SUFFIX":   [
         "wise.com",
        "transferwise.com",
        
@@ -19,7 +20,7 @@
         "monzo.statuspage.io",
         "monzo.com",
         "monzo-alt.net"
-          ]
-     }
-   ]  
+           ]
+         }
+    ]  
 }
