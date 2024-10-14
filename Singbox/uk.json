@@ -1,0 +1,119 @@
+{
+  "rules":   [
+    {
+      "DOMAIN-KEYWORD":      [
+       
+          "trading212",
+
+          "barclays",
+
+          "guavapay",
+
+         "lloydsbank", 
+       
+                          ]
+
+     "DOMAIN-SUFFIX":  [
+          
+        "appsflyersdk.com",
+
+        "barclays.co.uk",
+        "barclays.com",
+        "barclays.mobi",
+        "barclaysuk.sc.omtrdc.net",
+        "bclays-ads.aimatch.com",
+
+      "chase.com",
+      "chase.uk",
+      "chase.co.uk",
+
+      "creditkarma.co.uk",
+      "clearscore.com",
+      "checkmyfile.com",
+      "hellopillar.com",
+      "experian.co.uk",
+      "experianidentityservice.co.uk",
+      "pillar.money",
+      "totallymoney.uk",
+      "totallymoney.com",
+
+
+      "guavapay.com",
+
+      "lloydsbank.co.uk",
+      "amazontrust.com",
+      "dynatrace.com",
+
+      "tsb.co.uk",
+      "tsb.demdex.net",
+      "cm.everesttech.net",
+
+      "ifastgb.com",
+
+      "wuzo.co.uk",
+      "wuzo.com",
+
+      "payzilch.com",
+      "eu.intercom.io",
+      "verygoodvault.com",
+      "verygood.systems",
+      "appsflyer.com",
+ 
+      "branch.io",
+      "curve.app",
+      "emb-api.com",
+      "imaginecurve.com",
+
+       "stripe.com",
+       "sprig.com",  
+       "tripe.uk",
+
+      "monzo-alt.net",
+      "monzo.com",
+      "monzo.statuspage.io",
+      "monzo.me",
+      "nonprod-ffs.io",
+
+      "lemfi.com",
+      "branch.io",
+      "appsflyer.com",
+      "customer.io",
+
+      "freetrade.io",
+      "algolia.net",
+      "asnapieu.com",
+
+      "trading212.com",
+      "appsflyersdk.com",
+ 
+      "newdaycards.com",
+
+      "moneyboxapp.com",
+      "browser-intake-datadoghq.eu",
+
+      "paysend.io",
+
+      "hsbc.co.uk",
+
+      "topcashback.com",
+ 
+      "kroo.com",
+  
+      "uphold.com",
+
+     "n26.com",
+     "tech26.de",
+     "number26.de",
+     "dev-tech26.de",
+ 
+     "online-metrix.net",
+
+      "skrill.com",
+      "skrill.uk",
+           
+      "co.uk"
+          
+            ]
+       }
+    ]  
+}
