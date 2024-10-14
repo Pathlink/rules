@@ -1,0 +1,10 @@
+{
+  "rules": [
+    {
+     "DOMAIN-SUFFIX": [
+       "skrill.com",
+      "askrill.uk"
+     ]
+    }
+  ]  
+}
