@@ -1,7 +1,5 @@
 {
   "rules": [
-    {
-     "DOMAIN-SUFFIX":  "wise.com"
-    }
+     "DOMAIN-SUFFIX":"wise.com"
   ]
 }
