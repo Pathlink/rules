@@ -5,7 +5,7 @@
         
         "trading212",
        
-     "DOMAIN-SUFFIX":   [
+     "DOMAIN-SUFFIX": [
         "wise.com",
        "transferwise.com",
        
@@ -19,7 +19,7 @@
         "monzo.statuspage.io",
         "monzo.com",
         "monzo-alt.net"
-           ]
-       }
-    ]  
+          ]
+     }
+   ]  
 }
