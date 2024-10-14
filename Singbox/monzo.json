@@ -3,6 +3,7 @@
   "rules": [
     {
      "DOMAIN-SUFFIX": [
+       "wise.com",
       "monzo-alt.net",
       "monzo.com",
       "monzo.statuspage.io",
