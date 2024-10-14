@@ -1,11 +1,11 @@
 {
-  "rules":      [
-           {
+  "rules": [
+             {
         "DOMAIN-KEYWORD": 
           
-        "trading212",
+         "trading212",
 
-     "DOMAIN-SUFFIX":   [
+        "DOMAIN-SUFFIX":   [
         "wise.com",
         "transferwise.com",
        
@@ -20,7 +20,7 @@
         "monzo.com",
         "monzo-alt.net",
         "co.uk"
-                 ]
-           }
-     ]  
+                        ]
+               }
+        ]  
 }
