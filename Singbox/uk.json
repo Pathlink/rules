@@ -3,14 +3,14 @@
   "version": 86,
   "rules": [
     {
-"DOMAIN-SUFFIX, online-metrix.net"
-"DOMAIN-SUFFIX, wise.com"
-"DOMAIN, tw-avatar.s3.eu-central-1.amazonaws.com"
-"DOMAIN-SUFFIX, skrill.com"
-"DOMAIN-SUFFIX, skrill.uk"
-"DOMAIN-SUFFIX, chase.com"
-"DOMAIN-SUFFIX, chase.uk"
-"DOMAIN-SUFFIX, chase.co.uk"
+        "DOMAIN-SUFFIX, online-metrix.net"
+       "DOMAIN-SUFFIX, wise.com"
+        "DOMAIN, tw-avatar.s3.eu-central-1.amazonaws.com"
+        "DOMAIN-SUFFIX, skrill.com"
+        "DOMAIN-SUFFIX, skrill.uk"
+         "DOMAIN-SUFFIX, chase.com"
+         "DOMAIN-SUFFIX, chase.uk"
+        "DOMAIN-SUFFIX, chase.co.uk"
 "DOMAIN-SUFFIX, creditkarma.co.uk"
 "DOMAIN-SUFFIX, totallymoney.uk"
 "DOMAIN-SUFFIX, totallymoney.com"
@@ -50,13 +50,11 @@
 "DOMAIN-SUFFIX, stripe.com"
 "DOMAIN-SUFFIX, sprig.com"
 "DOMAIN-SUFFIX, stripe.uk"
-
 "DOMAIN-SUFFIX, monzo-alt.net"
 "DOMAIN-SUFFIX, monzo.com"
 "DOMAIN-SUFFIX, monzo.statuspage.io"
 "DOMAIN-SUFFIX, monzo.me"
 "DOMAIN-SUFFIX, nonprod-ffs.io"
-
 "DOMAIN-SUFFIX, lemfi.com"
 "DOMAIN-SUFFIX, branch.io"
 "DOMAIN-SUFFIX, appsflyer.com"
