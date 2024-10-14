@@ -4,13 +4,11 @@
       "DOMAIN-KEYWORD":
       "trading212",
      "DOMAIN-SUFFIX": [
-       {
-       "trading212.com",
-      "appsflyersdk.com",
        "wise.com",
-       "newdaycards.com"
-       }
-     ]
-    }
-  ]  
+       "newdaycards.com",
+       "trading212.com",
+      "appsflyersdk.com"
+    ]
+  }
+ ]  
 }
