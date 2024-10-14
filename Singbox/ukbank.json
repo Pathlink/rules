@@ -1,26 +1,26 @@
 {
-  "rules":   [
-         {
-        "DOMAIN-KEYWORD": [
+  "rules": [
+              {
+               "DOMAIN-KEYWORD": [
           
-       "trading212",
+                  "trading212",
 
-        "ifastgb",
-            ]
+                    "ifastgb",
+                      ]   
        
-     "DOMAIN-SUFFIX":  [
-        "wise.com",
-       "transferwise.com",
+             "DOMAIN-SUFFIX":    [
+                   "wise.com",
+                    "transferwise.com",
        
-        "trading212.com",
-        "appsflyersdk.com",
+                   "trading212.com",
+                   "appsflyersdk.com",
        
-        "nonprod-ffs.io",
-        "monzo.me",
-        "monzo.statuspage.io",
-        "monzo.com",
-        "monzo-alt.net"
-               ]
-         }
-    ]  
+                   "nonprod-ffs.io",
+                   "monzo.me",
+                   "monzo.statuspage.io",
+                   "monzo.com",
+                  "monzo-alt.net"
+                     ]
+                }
+         ]  
 }
