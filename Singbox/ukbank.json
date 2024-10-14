@@ -1,8 +1,8 @@
 {
-  "rules":   [
+  "rules":  [
            {
         "DOMAIN-KEYWORD": 
-        "ifastgb",
+      
         "trading212",
        
      "DOMAIN-SUFFIX":  [
