@@ -1,15 +1,12 @@
 {
   "rules": [
     {
-"DOMAIN-SUFFIX": [
+      "DOMAIN-KEYWORD": "trading212",
+     "DOMAIN-SUFFIX": [
   "trading212.com",
  "appsflyersdk.com"
 ]
-    }
-    {
-"DOMAIN-KEYWORD": [
-  "trading212"
-]
+
     }
   ]
 }
