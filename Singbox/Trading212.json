@@ -4,6 +4,7 @@
         "DOMAIN-KEYWORD": 
         "trading212",
      "DOMAIN-SUFFIX":  [
+       {   
         "wise.com",
         "nonprod-ffs.io",
         "ifastgb.com",
@@ -13,6 +14,7 @@
         "monzo.statuspage.io",
         "monzo.com",
         "monzo-alt.net"
+       } 
              ]
     }
   ]  
