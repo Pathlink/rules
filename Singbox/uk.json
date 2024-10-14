@@ -2,11 +2,9 @@
 {
   "rules": [
 {
-# 英国银行
 "DOMAIN-SUFFIX": "online-metrix.net",
 }
 {    
-# wise
 "DOMAIN-SUFFIX": "wise.com",
 "DOMAIN":  "tw-avatar.s3.eu-central-1.amazonaws.com",
     }
