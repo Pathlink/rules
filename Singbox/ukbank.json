@@ -3,6 +3,7 @@
   "rules": [
         {
         "domain_suffix": [
+                #wise
                 "wise.com",
                 "transferwise.com",
           
