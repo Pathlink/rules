@@ -1,27 +1,27 @@
 {
   "version":1,
   "rules":  [
-             {
+               {
         "domain_keyword":  [
           "trading212",
           "ifastgb"
                  ],
               
         "domain_suffix":   [
-
-                "online-metrix.net",
-          
                 "wise.com",
                 "transferwise.com",
 
-                "skrill.com",
-                "skrill.uk",
+                "ifastgb.com",
+          
+                "trading212.com",
+    
+                "nonprod-ffs.io",
+                "monzo.me",
+                "monzo.statuspage.io",
+                "monzo.com",
+                "monzo-alt.net",
 
-                 "chase.com",
-                 "chase.co.uk",
-                 "chase.uk",
-
-                 "creditkarma.co.uk",
+                "creditkarma.co.uk",
                  "totallymoney.uk",
                  "totallymoney.com",
                  "clearscore.com",
@@ -29,18 +29,21 @@
                  "hellopillar.com",
                  "pillar.money",
                  "experian.co.uk",
-                 "experianidentityservice.co.uk",
+                 "experianidentityservice.co.uk",        
+            
+                 "hsbc.co.uk",
+              
+                 "curve.app",
+                 "branch.io",
+                 "emb-api.com",
+                 "imaginecurve.com",
+
+                 "n26.com",
+                 "tech26.de",
+                 "number26.de",
+                 "dev-tech26.de",
           
-                "ifastgb.com",
-          
-                "trading212.com",
-                "appsflyersdk.com",
-          
-                "nonprod-ffs.io",
-                "monzo.me",
-                "monzo.statuspage.io",
-                "monzo.com",
-                "monzo-alt.net"
+                 "co.uk"
                ]
           }
      ]  
