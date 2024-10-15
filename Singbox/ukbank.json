@@ -2,7 +2,7 @@
   "version":1,
   "rules": [
         {
-        "DOMAIN-SUFFIX": [
+        "domain-suffix": [
         "wise.com",
         "transferwise.com",
        
