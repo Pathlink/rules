@@ -3,20 +3,17 @@
   "rules": [
         {
         "domain-suffix": [
-        "wise.com",
-        "transferwise.com",
-       
-        "ifastgb.com",
-
-        "trading212.com",
-        "appsflyersdk.com",
-       
-        "nonprod-ffs.io",
-        "monzo.me",
-        "monzo.statuspage.io",
-        "monzo.com",
-        "monzo-alt.net"
-             ]
+                "wise.com",
+                "transferwise.com",
+                "ifastgb.com",
+                 "trading212.com",
+                 "appsflyersdk.com",
+                  "nonprod-ffs.io",
+                  "monzo.me",
+                  "monzo.statuspage.io",
+                  "monzo.com",
+                  "monzo-alt.net"
+                ]
          }
     ]  
 }
