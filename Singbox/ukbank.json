@@ -2,12 +2,15 @@
   "version":1,
   "rules": [
         {
-        "domain-suffix": [
+        "domain_suffix": [
                 "wise.com",
                 "transferwise.com",
+          
                 "ifastgb.com",
+          
                  "trading212.com",
                  "appsflyersdk.com",
+          
                   "nonprod-ffs.io",
                   "monzo.me",
                   "monzo.statuspage.io",
