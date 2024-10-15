@@ -1,4 +1,5 @@
 {
+  "version":1,
   "rules": [
         {
         "DOMAIN-SUFFIX": [
@@ -15,7 +16,7 @@
         "monzo.statuspage.io",
         "monzo.com",
         "monzo-alt.net"
-                   ]
-               }
-        ]  
+             ]
+         }
+    ]  
 }
