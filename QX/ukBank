@@ -1,16 +1,37 @@
-# 英国银行
-DOMAIN-SUFFIX, online-metrix.net
-#wise
+
+# wise
 DOMAIN-SUFFIX,transferwise.com
 DOMAIN-SUFFIX, wise.com
-# skrill
-DOMAIN-SUFFIX, skrill.com
-DOMAIN-SUFFIX, skrill.uk
-
-# Chase
-DOMAIN-SUFFIX, chase.com
-DOMAIN-SUFFIX, chase.uk
-DOMAIN-SUFFIX, chase.co.uk
+# 212
+DOMAIN-SUFFIX, trading212.com
+DOMAIN-SUFFIX, appsflyersdk.com
+DOMAIN-KEYWORD, trading212
+# monzo
+DOMAIN-SUFFIX, monzo-alt.net
+DOMAIN-SUFFIX, monzo.com
+DOMAIN-SUFFIX, monzo.statuspage.io
+DOMAIN-SUFFIX, monzo.me
+DOMAIN-SUFFIX, nonprod-ffs.io
+# ifast
+DOMAIN-SUFFIX, ifastgb.com
+# hsbc uk
+DOMAIN-SUFFIX, hsbc.co.uk
+# curve
+DOMAIN-SUFFIX, curve.app
+DOMAIN-SUFFIX, branch.io
+DOMAIN-SUFFIX, emb-api.com
+DOMAIN-SUFFIX, imaginecurve.com
+# zilch
+DOMAIN-SUFFIX, payzilch.com
+DOMAIN-SUFFIX, eu.intercom.io
+DOMAIN-SUFFIX, verygoodvault.com
+DOMAIN-SUFFIX, verygood.systems
+DOMAIN-SUFFIX, appsflyer.com
+# N26
+DOMAIN-SUFFIX, n26.com
+DOMAIN-SUFFIX, tech26.de
+DOMAIN-SUFFIX, number26.de
+DOMAIN-SUFFIX, dev-tech26.de
 # 信用查询
 DOMAIN-SUFFIX, creditkarma.co.uk
 DOMAIN-SUFFIX, totallymoney.uk
@@ -21,6 +42,14 @@ DOMAIN-SUFFIX, hellopillar.com
 DOMAIN-SUFFIX, pillar.money
 DOMAIN-SUFFIX, experian.co.uk
 DOMAIN-SUFFIX, experianidentityservice.co.uk
+
+# skrill
+DOMAIN-SUFFIX, skrill.com
+DOMAIN-SUFFIX, skrill.uk
+# Chase
+DOMAIN-SUFFIX, chase.com
+DOMAIN-SUFFIX, chase.uk
+DOMAIN-SUFFIX, chase.co.uk
 # barclays
 DOMAIN-SUFFIX, barclays.co.uk
 DOMAIN-SUFFIX, barclays.com
@@ -41,32 +70,13 @@ DOMAIN-KEYWORD, lloydsbank
 DOMAIN-SUFFIX, tsb.co.uk
 DOMAIN-SUFFIX, tsb.demdex.net
 DOMAIN-SUFFIX, cm.everesttech.net
-# ifast
-DOMAIN-SUFFIX, ifastgb.com
 # wuzo
 DOMAIN-SUFFIX, wuzo.co.uk
 DOMAIN-SUFFIX, wuzo.com
-# zilch
-DOMAIN-SUFFIX, payzilch.com
-DOMAIN-SUFFIX, eu.intercom.io
-DOMAIN-SUFFIX, verygoodvault.com
-DOMAIN-SUFFIX, verygood.systems
-DOMAIN-SUFFIX, appsflyer.com
-# curve
-DOMAIN-SUFFIX, curve.app
-DOMAIN-SUFFIX, branch.io
-DOMAIN-SUFFIX, emb-api.com
-DOMAIN-SUFFIX, imaginecurve.com
 # stripe
 DOMAIN-SUFFIX, stripe.com
 DOMAIN-SUFFIX, sprig.com
 DOMAIN-SUFFIX, stripe.uk
-# monzo
-DOMAIN-SUFFIX, monzo-alt.net
-DOMAIN-SUFFIX, monzo.com
-DOMAIN-SUFFIX, monzo.statuspage.io
-DOMAIN-SUFFIX, monzo.me
-DOMAIN-SUFFIX, nonprod-ffs.io
 # lemfi
 DOMAIN-SUFFIX, lemfi.com
 DOMAIN-SUFFIX, branch.io
@@ -76,10 +86,6 @@ DOMAIN-SUFFIX, customer.io
 DOMAIN-SUFFIX, freetrade.io
 DOMAIN-SUFFIX, algolia.net
 DOMAIN-SUFFIX, asnapieu.com
-# 212
-DOMAIN-SUFFIX, trading212.com
-DOMAIN-SUFFIX, appsflyersdk.com
-DOMAIN-KEYWORD, trading212
 # aqua
 DOMAIN-SUFFIX, newdaycards.com
 DOMAIN-KEYWORD, newdaycards
@@ -88,18 +94,11 @@ DOMAIN-SUFFIX, moneyboxapp.com
 DOMAIN-SUFFIX, browser-intake-datadoghq.eu
 # paysend
 DOMAIN-SUFFIX, paysend.io
-# hsbc uk
-DOMAIN-SUFFIX, hsbc.co.uk
 # topcashback
 DOMAIN-SUFFIX, topcashback.com
 # kroo
 DOMAIN-SUFFIX, kroo.com
 # uphold
 DOMAIN-SUFFIX, uphold.com
-# N26
-DOMAIN-SUFFIX, n26.com
-DOMAIN-SUFFIX, tech26.de
-DOMAIN-SUFFIX, number26.de
-DOMAIN-SUFFIX, dev-tech26.de
 # 兜底
 DOMAIN-SUFFIX, co.uk
