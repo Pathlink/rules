@@ -2,7 +2,8 @@
   "version":1,
   "rules": [
             {
-        "DOMAIN_KEYWORD": [
+              
+        "domain_keyword": [
           "trading212",
           "ifastgb",
                 ]
