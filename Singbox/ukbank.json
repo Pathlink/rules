@@ -1,13 +1,13 @@
 {
   "version":1,
-  "rules": [
+  "rules":  [
              {
-        "domain_keyword": [
+        "domain_keyword":  [
           "trading212",
           "ifastgb"
-                ],
+                 ],
               
-        "domain_suffix":  [
+        "domain_suffix":   [
 
                 "online-metrix.net",
           
@@ -41,7 +41,7 @@
                 "monzo.statuspage.io",
                 "monzo.com",
                 "monzo-alt.net"
-              ]
-         }
-    ]  
+               ]
+          }
+     ]  
 }
