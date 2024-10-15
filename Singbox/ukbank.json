@@ -2,7 +2,10 @@
   "version":1,
   "rules": [
             {
-        "DOMAIN_KEYWORD": "trading212",
+        "DOMAIN_KEYWORD": [
+          "trading212",
+          "ifastgb",
+                ]
               
         "domain_suffix":  [
 
@@ -22,8 +25,11 @@
                  "totallymoney.uk",
                  "totallymoney.com",
                  "clearscore.com",
-
-          
+                 "checkmyfile.com",
+                 "hellopillar.com",
+                 "pillar.money",
+                 "experian.co.uk",
+                 "experianidentityservice.co.uk",
           
                 "ifastgb.com",
           
