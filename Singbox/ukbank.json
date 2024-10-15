@@ -1,7 +1,9 @@
 {
   "version":1,
   "rules": [
-        {
+            {
+        "DOMAIN_KEYWORD": "trading212",
+              
         "domain_suffix":  [
                 
                 "wise.com",
@@ -9,15 +11,15 @@
           
                 "ifastgb.com",
           
-                 "trading212.com",
-                 "appsflyersdk.com",
+                "trading212.com",
+                "appsflyersdk.com",
           
-                  "nonprod-ffs.io",
-                  "monzo.me",
-                  "monzo.statuspage.io",
-                  "monzo.com",
-                  "monzo-alt.net"
-                ]
+                "nonprod-ffs.io",
+                "monzo.me",
+                "monzo.statuspage.io",
+                "monzo.com",
+                "monzo-alt.net"
+              ]
          }
     ]  
 }
