@@ -2,6 +2,8 @@
   "version":1,
   "rules":  [
                {
+        "DOMAIN": "monzo-prod-user-images.imgix.net",
+                 
         "domain_keyword":  [
           "trading212",
           "ifastgb"
