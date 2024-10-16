@@ -14,6 +14,17 @@ DOMAIN-SUFFIX, monzo.me
 DOMAIN-SUFFIX, nonprod-ffs.io
 # ifast
 DOMAIN-SUFFIX, ifastgb.com
+DOMAIN-SUFFIX, ifastgp.com
+DOMAIN-SUFFIX, ifastcorp.com
+DOMAIN-SUFFIX, ifastnetwork.com
+DOMAIN-SUFFIX, ifasttv.com
+DOMAIN-SUFFIX, ifastcapital.com.my
+DOMAIN-SUFFIX, ifastfinancial.com.hk
+DOMAIN-SUFFIX, ifastfinancial.co.in
+DOMAIN-SUFFIX, ifastgp.com.hk
+DOMAIN-SUFFIX, ifastps.com.cn
+
+
 # hsbc uk
 DOMAIN-SUFFIX, hsbc.co.uk
 # curve
