@@ -42,11 +42,7 @@ DOMAIN-SUFFIX, eu.intercom.io
 DOMAIN-SUFFIX, verygoodvault.com
 DOMAIN-SUFFIX, verygood.systems
 DOMAIN-SUFFIX, appsflyer.com
-# N26
-DOMAIN-SUFFIX, n26.com
-DOMAIN-SUFFIX, tech26.de
-DOMAIN-SUFFIX, number26.de
-DOMAIN-SUFFIX, dev-tech26.de
+
 # 信用查询
 DOMAIN-SUFFIX, creditkarma.co.uk
 DOMAIN-SUFFIX, totallymoney.uk
