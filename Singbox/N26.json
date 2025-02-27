@@ -1,3 +1,4 @@
+{
  "rules": [
   "domain_suffix": [
 "n26.com",
@@ -6,3 +7,4 @@
 "dev-tech26.de"
  ]
 ]
+}
