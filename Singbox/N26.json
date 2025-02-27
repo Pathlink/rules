@@ -1,5 +1,7 @@
-# N26
-DOMAIN-SUFFIX, n26.com
-DOMAIN-SUFFIX, tech26.de
-DOMAIN-SUFFIX, number26.de
-DOMAIN-SUFFIX, dev-tech26.de
+ "rules": [
+  "domain_suffix": 
+"n26.com",
+"tech26.de".
+"number26.de",
+"dev-tech26.de"
+ ]
