@@ -3,7 +3,10 @@
   "rules": [
     {
       "domain": [
-       "nodeseek.com"
+        "www.nodeseek.com"
+      ],
+      "ip_cidr": [
+        "104.26.10.72/32"
       ]
     }
   ]
