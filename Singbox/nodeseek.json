@@ -2,8 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-       "nodeseek"
+      "domain": [
+       "nodeseek.com"
       ]
     }
   ]
