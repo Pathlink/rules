@@ -10,8 +10,7 @@ DOMAIN-SUFFIX, trading212.com
 DOMAIN-SUFFIX, appsflyersdk.com
 DOMAIN-KEYWORD, trading212
 # monzo
-DOMAIN, monzo-prod-user-images.imgix.net
-DOMAIN-SUFFIX, amazonaws.com         
+DOMAIN, monzo-prod-user-images.imgix.net     
 DOMAIN-SUFFIX, monzo-alt.net
 DOMAIN-SUFFIX, monzo.com
 DOMAIN-SUFFIX, monzo.statuspage.io
