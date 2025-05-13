@@ -100,6 +100,23 @@
 ^https?:\/\/appconf\.mail\.163\.com\/mmad\/ url reject
 ^https?:\/\/support\.you\.163\.com\/xhr\/boot\/getBootMedia\.json url reject
 
+# > 美团 & 美团外卖
+# hostname = img.meituan.net, s3plus.meituan.net, flowplus.meituan.net
+^https?:\/\/wmapi\.meituan\.com\/api\/v7\/(loadInfo|openscreen|startpicture)\? url reject-dict
+^https?:\/\/(s3plus|flowplus)\.meituan\.net\/v\d\/\w+\/linglong\/\w+\.(gif|jpg|mp4) url reject-dict
+^https?:\/\/img\.meituan\.net\/bizad\/bizad_brandCpt_\d+\.jpg url reject-dict
+^https?:\/\/s3plus\.meituan\.net\/ocean-blk-index\/index\/blk_conf_73\.json url reject-dict
+^https?:\/\/s3plus\.meituan\.net\/v1\/mss_\w+\/(brandcpt-vedio|waimai-alita)\/\w+\.zip$ url reject-dict
+# 美团订单详情页更多推荐
+^https?:\/\/apimobile\.meituan\.com\/group\/v1\/recommend\/unity\/recommends url reject-dict
+
+# > 咪咕
+# hostname = *.cmvideo.cn
+^https?:\/\/gg\w+?\.cmvideo\.cn\/v\d\/iflyad\/ url reject-200
+^https?:\/\/ggic\d?\.cmvideo\.cn\/ad\/ url reject-200
+^https?:\/\/ggx\.cmvideo\.cn\/request\/ url reject-200
+^https?:\/\/.+?\/cdn-adn\/ url reject-200
+
 # > 拼多多
 # hostname = api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com
 ^https?:\/\/api\.(pinduoduo|yangkeduo)\.com\/api\/cappuccino\/splash url reject
@@ -276,4 +293,4 @@
 ^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?txnId=2PIC000001 url reject-200
 
 # hostname，MITM（MAN-IN-THE-MIDDLE：中间人攻击）
-hostname = api.alipan.com, member.alipan.com, list-app-m.i4.cn, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net, ap.dongqiudi.com, res.pizzahut.com.cn, res.kfc.com.cn, api.mcd.cn, api.m.jd.com, dns.jd.com, m.360buyimg.com, api.m.jd.com, bdsp-x.jd.com, dsp-x.jd.com, ms.jr.jd.com, appconf.mail.163.com, support.you.163.com, api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com, alt-r.my.com, imgx.jampp.com, acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com, b.appsimg.com, mapi.appvipshop.com, portal-portm.meituan.com, mall.meituan.com, edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com, client.app.coc.10086.cn, app.10086.cn, mcmm.caiyun.feixin.10086.cn, mrp.mcloud.139.com, ad.mcloud.139.com, middle.yun.139.com, www.binance.info, www.yingwangtech.net, www.binance.com, v.icbc.com.cn, pv.elife.icbc.com.cn, static.95508.com, mps.95508.com, mbank.grcbank.com, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, image.spdbccc.com.cn, image.spdbccc.com.cn, cdn.sdb.com.cn, mlife.jf365.boc.cn
+hostname = api.alipan.com, member.alipan.com, list-app-m.i4.cn, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net, ap.dongqiudi.com, res.pizzahut.com.cn, res.kfc.com.cn, api.mcd.cn, api.m.jd.com, dns.jd.com, m.360buyimg.com, api.m.jd.com, bdsp-x.jd.com, dsp-x.jd.com, ms.jr.jd.com, appconf.mail.163.com, support.you.163.com, api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com, alt-r.my.com, imgx.jampp.com, acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com, b.appsimg.com, mapi.appvipshop.com, img.meituan.net, s3plus.meituan.net, flowplus.meituan.net, portal-portm.meituan.com, mall.meituan.com, *.cmvideo.cn, edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com, client.app.coc.10086.cn, app.10086.cn, mcmm.caiyun.feixin.10086.cn, mrp.mcloud.139.com, ad.mcloud.139.com, middle.yun.139.com, www.binance.info, www.yingwangtech.net, www.binance.com, v.icbc.com.cn, pv.elife.icbc.com.cn, static.95508.com, mps.95508.com, mbank.grcbank.com, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, image.spdbccc.com.cn, image.spdbccc.com.cn, cdn.sdb.com.cn, mlife.jf365.boc.cn
