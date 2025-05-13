@@ -126,6 +126,16 @@
 ^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.(cloudvideo\.video\.query|wireless\.home\.splash\.awesome\.get) url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/myBlockAds.js
 ^https?:\/\/poplayer\.template\.alibaba\.com\/\w+\.json url script-response-body https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/myBlockAds.js
 
+# > 唯品会
+# hostname = b.appsimg.com, mapi.appvipshop.com
+^https?:\/\/b\.appsimg\.com\/upload\/momin url reject
+^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/activity\/advertisement\/get url reject-200
+^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/iosAdInfo\/report url reject
+# APP+小程序弹窗广告
+^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/layout\/productList\/eventData\/v url reject-200
+# 右下角悬浮窗，需手动关闭广告一次
+^https?:\/\/mapi\.appvipshop\.com\/vips-mobile\/rest\/activity\/coupon\/float_entrance\/get\?api_key url reject-200
+
 # > 小象超市
 # hostname = portal-portm.meituan.com, mall.meituan.com
 # 广告下发
@@ -266,4 +276,4 @@
 ^https?:\/\/mlife\.jf365\.boc\.cn\/AppPrj\/FirstPic\.do\?txnId=2PIC000001 url reject-200
 
 # hostname，MITM（MAN-IN-THE-MIDDLE：中间人攻击）
-hostname = api.alipan.com, member.alipan.com, list-app-m.i4.cn, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net, ap.dongqiudi.com, res.pizzahut.com.cn, res.kfc.com.cn, api.mcd.cn, api.m.jd.com, dns.jd.com, m.360buyimg.com, api.m.jd.com, bdsp-x.jd.com, dsp-x.jd.com, ms.jr.jd.com, appconf.mail.163.com, support.you.163.com, api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com, alt-r.my.com, imgx.jampp.com, acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com, portal-portm.meituan.com, mall.meituan.com, edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com, client.app.coc.10086.cn, app.10086.cn, mcmm.caiyun.feixin.10086.cn, mrp.mcloud.139.com, ad.mcloud.139.com, middle.yun.139.com, www.binance.info, www.yingwangtech.net, www.binance.com, v.icbc.com.cn, pv.elife.icbc.com.cn, static.95508.com, mps.95508.com, mbank.grcbank.com, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, image.spdbccc.com.cn, image.spdbccc.com.cn, cdn.sdb.com.cn, mlife.jf365.boc.cn
+hostname = api.alipan.com, member.alipan.com, list-app-m.i4.cn, pan.baidu.com, ndstatic.cdn.bcebos.com, staticsns.cdn.bcebos.com, issuecdn.baidupcs.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, grpc.biliapi.net, ap.dongqiudi.com, res.pizzahut.com.cn, res.kfc.com.cn, api.mcd.cn, api.m.jd.com, dns.jd.com, m.360buyimg.com, api.m.jd.com, bdsp-x.jd.com, dsp-x.jd.com, ms.jr.jd.com, appconf.mail.163.com, support.you.163.com, api.pinduoduo.com, api.yangkeduo.com, mobile.yangkeduo.com, alt-r.my.com, imgx.jampp.com, acs.m.taobao.com, guide-acs.m.taobao.com, poplayer.template.alibaba.com, b.appsimg.com, mapi.appvipshop.com, portal-portm.meituan.com, mall.meituan.com, edith.xiaohongshu.com, www.xiaohongshu.com, ci.xiaohongshu.com, rec.xiaohongshu.com, client.app.coc.10086.cn, app.10086.cn, mcmm.caiyun.feixin.10086.cn, mrp.mcloud.139.com, ad.mcloud.139.com, middle.yun.139.com, www.binance.info, www.yingwangtech.net, www.binance.com, v.icbc.com.cn, pv.elife.icbc.com.cn, static.95508.com, mps.95508.com, mbank.grcbank.com, midc.cdn-static.abchina.com.cn, enjoy.cdn-static.abchina.com, image.spdbccc.com.cn, image.spdbccc.com.cn, cdn.sdb.com.cn, mlife.jf365.boc.cn
