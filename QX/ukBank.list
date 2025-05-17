@@ -54,6 +54,7 @@ DOMAIN-SUFFIX, experian.co.uk
 DOMAIN-SUFFIX, experianidentityservice.co.uk
 #myfin
 DOMAIN-SUFFIX, myfin.bg
+DOMAIN-KEYWORD, myfin
 # skrill
 DOMAIN-SUFFIX, skrill.com
 DOMAIN-SUFFIX, skrill.uk
