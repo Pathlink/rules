@@ -6,12 +6,13 @@
        "n26.com",
        "tech26.de",
        "number26.de",
-       "dev-tech26.de",
-       "vodafone.de"
+       "dev-tech26.de"
+ 
       ],
-     "domain_keyword": 
-       "n26"
-    
+     "domain_keyword": [
+       "n26",
+        "vodafone.de"
+ 
    }
   ]
 }
