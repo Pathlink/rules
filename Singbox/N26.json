@@ -8,7 +8,10 @@
        "number26.de",
        "dev-tech26.de"
       ],
-     "domain_keyword":"n26"
+     "domain_keyword":[
+       "n26",
+       "vodafone.de"
+     ]
    }
   ]
 }
