@@ -16,6 +16,8 @@ DOMAIN-SUFFIX, monzo.com
 DOMAIN-SUFFIX, monzo.statuspage.io
 DOMAIN-SUFFIX, monzo.me
 DOMAIN-SUFFIX, nonprod-ffs.io
+DOMAIN-KEYWORD, braze.eu
+DOMAIN-KEYWORD, sentry.io
 # ifast
 DOMAIN-SUFFIX, ifastgb.com
 DOMAIN-SUFFIX, ifastgp.com
