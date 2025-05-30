@@ -3,11 +3,13 @@
   "rules":  [
                {
         "DOMAIN": "monzo-prod-user-images.imgix.net",
+                 
         "domain_keyword":  [
                 "trading212",
                 "ifastgb",
                 "infini"
            ],
+                 
         "domain_suffix":   [
                 "wise.com",
                 "transferwise.com",
