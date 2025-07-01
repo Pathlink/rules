@@ -25,12 +25,12 @@ DOMAIN-SUFFIX, ifastfinancial.co.in
 DOMAIN-SUFFIX, ifastgp.com.hk
 DOMAIN-SUFFIX, ifastps.com.cn
 #chip
-DOMAIN-KEYWORD, chiphq.net
-DOMAIN-KEYWORD, intercom.io
-DOMAIN-KEYWORD, braze.eu
-DOMAIN-KEYWORD, lokalise.co
-DOMAIN-KEYWORD, sentry.io
+DOMAIN-SUFFIX, chiphq.net
+DOMAIN-SUFFIX, intercom.io
+DOMAIN-SUFFIX, braze.eu
+DOMAIN-SUFFIX, sentry.io
 DOMAIN-KEYWORD, getchip
+DOMAIN, ota.lokalise.co
 # hsbc uk
 DOMAIN-SUFFIX, hsbc.co.uk
 # curve
