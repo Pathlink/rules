@@ -8,13 +8,8 @@
                 "trading212",
                 "ifastgb",
                 "infini",
-                "chiphq.net",
-                "intercom.io",
-                "braze.eu",
-                "sentry.io",
-                "getchip",
-                "lokalise.co"
-           ],
+                "getchip"
+            ],
                  
         "domain_suffix":   [
                 "wise.com",
@@ -38,6 +33,12 @@
                 "monzo.com",
                 "monzo-alt.net",
 
+                "chiphq.net",
+                "intercom.io",
+                "braze.eu",
+                "sentry.io",
+                "lokalise.co",
+          
                 "creditkarma.co.uk",
                  "totallymoney.uk",
                  "totallymoney.com",
