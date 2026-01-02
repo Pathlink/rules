@@ -1,7 +1,3 @@
-HOST, app-measurement.com
-HOST, bybit-exchange.github.io
-HOST, monitor-frontend-collector.a.bybit-aws.com
-
 HOST-SUFFIX, bybit.eu
 HOST-SUFFIX, bybit.com
 HOST-SUFFIX, bybit.biz
