@@ -12,12 +12,13 @@
        "tech26.de",
        "number26.de",
        "dev-tech26.de",
-       "bugsnag.com"
       ],
      "domain_keyword": [
        "n26",
        "neverless",
-       "vodafone.de"
+       "vodafone.de",
+       "o2online.de",
+       "*.de"
      ]
    }
   ]
